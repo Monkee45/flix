@@ -1,4 +1,0 @@
-name: flix
-
-dependencies:
-    - ruby=3.*
