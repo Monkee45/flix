@@ -39,6 +39,9 @@ class MoviesController < ApplicationController
     redirect_to movies_url, alert: "Movie successfully deleted!"
   end
 
+  def nonny
+  end
+
 private
 
   def movie_params
